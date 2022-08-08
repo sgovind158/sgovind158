@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [https://govindsahuportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at https://govindsahuportfolio.netlify.app/
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Redux**
 
