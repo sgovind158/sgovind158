@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **govindsahu2842@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IXY6axmxuOUE3BzQQNy0bKiog8-cjsQy/view?usp=sharing](https://drive.google.com/file/d/1IXY6axmxuOUE3BzQQNy0bKiog8-cjsQy/view?usp=sharing)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1eDrErhia-pnE_wzhd0Z8gA66pWb9BcTO/view)
 
 - ⚡ Fun fact **I cannot live without Internet.**
 
