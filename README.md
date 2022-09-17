@@ -29,7 +29,7 @@
 <a href="https://twitter.com/govinds31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="govinds31" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/govind-sahu-4618881b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/govind-sahu-4618881b2/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sgovind158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sgovind158" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc6p-zr9a6xqpj1jtfdhjyow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc6p-zr9a6xqpj1jtfdhjyow" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/uc6p-zr9a6xqpj1jtfdhjyow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc6p-zr9a6xqpj1jtfdhjyow" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
