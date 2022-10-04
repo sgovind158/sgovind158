@@ -36,7 +36,7 @@
     <a href="https://govindsahuportfolio.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://govindsahuportfolio.netlify.app/" />
     </a>
-    <a title="govindsahu2842@gmail.com" href="govindsahu2842@gmail.com">
+    <a title="govindsahu2842@gmail.com" href="mailto:govindsahu2842@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="govindsahu2842@gmail.com" />
     </a>
      <a href="https://www.youtube.com/channel/UC6P-ZR9a6xQpj1jTFdhjyOw">
