@@ -14,13 +14,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at https://govindsahuportfolio.netlify.app/
-
-- 💬 Ask me about **HTML,CSS,JavaScript,React,Redux**
+- 💬 Ask me about **HTML, CSS, JavaScript, Next.js, React, Redux, Redux Toolkit**
 
 - 📫 How to reach me **govindsahu2842@gmail.com**
-
-- 📄 Know about my experiences (https://drive.google.com/file/d/1FrtaCwou2pAAn9_OgaXND1j86bzaLfNK/view?usp=sharing)
 
 - ⚡ Fun fact **I cannot live without Internet.**
 
