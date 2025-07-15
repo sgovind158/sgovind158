@@ -57,7 +57,17 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
     <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-   
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    <!-- Tailwind CSS -->
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<!-- Next.js -->
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<!-- Redux Toolkit -->
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+<!-- DaisyUI -->
+<img src="https://img.shields.io/badge/DaisyUI-4F46E5?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="DaisyUI" />
+<!-- Sass -->
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 </p>
 
 
@@ -65,4 +75,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sgovind158&show_icons=true&locale=en" alt="sgovind158" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sgovind158&" alt="sgovind158" /></p>
