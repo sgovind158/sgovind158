@@ -5,7 +5,7 @@
 
 <h1 align="center">नमस्ते 👋, I'm Govind Sahu</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgovind158&label=Profile%20views&color=0e75b6&style=flat" alt="sgovind158" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Next.js, React, Redux, Redux Toolkit**
+- 💬 Ask me about **HTML, CSS, JavaScript, Next.js, React, Redux, Redux Toolkit, Node.js**
 
 - 📫 How to reach me **govindsahu2842@gmail.com**
 
